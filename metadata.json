@@ -1,0 +1,6 @@
+{
+  "name": "SISTEM INFORMASI TERINTEGRASI RW 17 KAVLING",
+  "description": "Sistem Informasi Terintegrasi RW 17 Kavling: Data Warga & Keluarga, Surat Pengantar Online, Iuran QRIS, Pengaduan GPS Lingkungan, Rekap Kas Transparan, dan Layanan Terpadu Rukun Warga 17.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
